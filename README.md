@@ -3,6 +3,10 @@
 ### Project Overview
 This project demonstrates a wireless optical communication system capable of transmitting high-fidelity analog audio signals over a distance of 10+ meters using a collimated laser beam. The system integrates a custom-designed optical lens assembly (simulated in Ansys Zemax) with a Class-A analog modulation circuit (designed in KiCad).
 
+### 📸 Visuals
+| PCB Layout | 3D Render |
+| :---: | :---: |
+| ![Layout](schematic_.png) | ![3D View](3d_render.png) |
 
 ### 🚀 Key Features
 * **Optical Range:** >10 meters with <2 mrad beam divergence.
