@@ -6,7 +6,7 @@ This project demonstrates a wireless optical communication system capable of tra
 ### 📸 Visuals
 | PCB Layout | 3D Render |
 | :---: | :---: |
-| ![Layout](schematic_.png) | ![3D View](3d_render.png) |
+| ![Layout](pcb_layout.png) | ![3D View](3d_render.png) |
 
 ### 🚀 Key Features
 * **Optical Range:** >10 meters with <2 mrad beam divergence.
